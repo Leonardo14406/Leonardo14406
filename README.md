@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo14406" alt="leonardo14406" /></a> </p>
 
-- 🔭 I’m currently working on **an E-commerce app**
-
-- 🌱 I’m currently learning **Python, how to build Full-Stack AI applications**
-
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 💬 Ask me about **react, node.js, next.js**
